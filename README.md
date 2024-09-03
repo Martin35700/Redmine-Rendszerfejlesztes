@@ -1,9 +1,8 @@
-# Redmine-Rendszerfejlesztes
+# Rendszerfejlesztes beadandó
 
-Pannon Egyetem 2023/24/2 félév - Rendszerfejlesztés projekt
-
-Tagok
-
-Dömök Martin (ISFDBW)
-Harnos Adrián Dániel (BW6LU0)
-Heller Benedek (C1XTK3)
+# Beüzemelés
+- Telepítsük a [XAMPP-ot](https://www.apachefriends.org/download.html) és a [Composer-t](https://getcomposer.org/download/)
+- Másoljuk be a XAMPP htdocs mappájába a projektet (alapértelmezetten C:/xampp/htdocs)
+- Egy terminálban a projekt mappáján belül futtassuk le a `composer install` commandot
+- Indítsuk el a XAMPP-ot, majd azon belül az Apache és MySQL szervereket
+- Tetszőleges böngészőben keressük fel a localhost/(projekt_mappa_nev)/ címet
